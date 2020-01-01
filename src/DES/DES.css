@@ -1,0 +1,29 @@
+.DES{
+    background-color: #2f54eb;
+    display:flex;
+    align-items:center;
+    text-align: center;
+    font-size:50px;
+}
+.content{
+    width:80%;
+    height:100%;
+}
+.center{
+    display:flex;
+    align-items:center;
+    margin-top:100px;
+}
+.button1{
+    font-weight: normal;
+    align-items:center;
+    display:block;margin:0 auto
+}
+.nbutton{
+    color: #52c41a;
+    text-align: center;
+}
+.in-key{
+    width:300px;
+    height:80px;
+}

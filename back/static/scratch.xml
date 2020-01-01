@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mimaxve>
+    <mingwen>hello world cerect system</mingwen>
+    <miyao>qwerty</miyao>
+    <LFSR-key1>1010011011</LFSR-key1>
+    <LFSR-key2>1110100111</LFSR-key2>
+    <LFSR-s1>0101110000</LFSR-s1>
+    <LFSR-s2>1101011100</LFSR-s2>
+    <A-key1>7</A-key1>
+    <A-key2>9</A-key2>
+    <DES-key>DESCRYPT</DES-key>
+    <DES-IV>10100110</DES-IV>
+</mimaxve>
